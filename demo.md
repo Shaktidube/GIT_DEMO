@@ -6,3 +6,6 @@ git config --global user.email ""
 
 
 echo . > demo.log  --- making a new file 
+
+
+git config --global core.editor "code --wait"
