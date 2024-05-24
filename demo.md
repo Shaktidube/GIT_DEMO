@@ -15,3 +15,4 @@ git log --oneline ---> give a commit msg and hash of file
 branch - series of line
 git branch -- show a current branch
 git branch 
+git checkout ---> for changing a branch
